@@ -11,6 +11,7 @@ My name is **Viktoria Zemliak**. I am a computational neuroscientist in the *Osn
 * Predicting Big Five personality traits from eye tracking data
 
 ### Hackathons
-* [Predicting pathogenicity of bacteria - Bionformatics Summer School 2021](https://github.com/rainsummer613/biss_microbiota)
+* Analysis of Youtube comments - Digital Humanities 2019 
+* [Predicting pathogenicity of bacteria - Bionformatics Summer School 2021](https://github.com/rainsummer613/biss_microbiota) 
 
 
