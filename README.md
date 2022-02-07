@@ -12,6 +12,6 @@ My name is **Viktoria Zemliak**. I am a computational neuroscientist in the *Osn
 
 ### Hackathons
 * Analysis of political youtube comments - Digital Humanities 2019 
-* [Predicting pathogenicity of bacteria - Bionformatics Summer School 2021](https://github.com/rainsummer613/biss_microbiota) 
+* [Predicting pathogenicity of bacteria](https://github.com/rainsummer613/biss_microbiota) - Bionformatics Summer School 2021
 
 
