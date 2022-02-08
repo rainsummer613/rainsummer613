@@ -8,7 +8,7 @@ My name is **Viktoria Zemliak**. I am a computational neuroscientist in the *Osn
 ### Research projects
 * [Modelling synchronous activity in V1](https://github.com/rainsummer613/synchrony)
 * [Spatial LCA model for predicting fixation latencies](https://github.com/rainsummer613/slca)
-* Predicting Big Five personality traits from eye tracking data
+* [Predicting Big Five personality traits from eye tracking data](https://github.com/rainsummer613/eyetracking-personality)
 
 ### Hackathons
 * Analysis of comments on political youtube videos - Digital Humanities Hackathon 2019, Moscow, Russia 🥇
