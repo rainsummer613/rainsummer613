@@ -5,10 +5,10 @@ My name is **Viktoria Zemliak**. I am a computational neuroscientist in the *Osn
 * My side interests: natural language processing, psychometrics, bioinformatics. 
 
 ### Research projects
-* [Familiarity detection under varied saliency from spike synchrony](https://github.com/rainsummer613/)
+* [Familiarity detection under varied input drive from spike synchrony](https://github.com/rainsummer613/snn-drive-familiarity-coding)
 * [Continual familiarity in recurrent spiking networks](https://github.com/rainsummer613/spiking-continual-familiarity) 
 * [Synchrony reveals Gestalt principles in V1](https://github.com/rainsummer613/synchrony)
-* [Spatial LCA model for predicting fixation latencies](https://github.com/rainsummer613/slca)
+* [Spatial LCA model for predicting eye fixation latencies](https://github.com/rainsummer613/slca)
 * [Predicting Big Five personality traits from eye tracking data](https://github.com/rainsummer613/eyetracking-personality)
 
 ### Hackathons
